@@ -61,7 +61,7 @@ urllib3
 Clone repository:
 
 ```bash
-git clone https://github.com/USERNAME/judol-scanner.git
+git clone https://github.com/DzkyCx/antijudol
 cd judol-scanner
 ```
 
