@@ -62,7 +62,7 @@ Clone repository:
 
 ```bash
 git clone https://github.com/DzkyCx/antijudol
-cd judol-scanner
+cd antijudol
 ```
 
 Buat virtual environment (disarankan):
